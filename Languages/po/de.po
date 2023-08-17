@@ -4192,7 +4192,7 @@ msgstr "Benutzerdefinierte Echtzeituhr aktivieren"
 
 #: Source/Core/DolphinQt/Settings/InterfacePane.cpp:149
 msgid "Enable Debugging UI"
-msgstr ""
+msgstr "Debugging-UI aktivieren"
 
 #: Source/Core/DolphinQt/Config/GameConfigWidget.cpp:87
 msgid "Enable Dual Core"
@@ -4220,11 +4220,11 @@ msgstr "FPRF aktivieren"
 
 #: Source/Core/DolphinQt/Config/Graphics/AdvancedWidget.cpp:105
 msgid "Enable Graphics Mods"
-msgstr ""
+msgstr "Grafikmods aktivieren"
 
 #: Source/Core/DolphinQt/Achievements/AchievementSettingsWidget.cpp:62
 msgid "Enable Leaderboards"
-msgstr ""
+msgstr "Leaderboards aktivieren"
 
 #: Source/Core/DolphinQt/Config/GameConfigWidget.cpp:88
 #: Source/Core/DolphinQt/Settings/AdvancedPane.cpp:66
@@ -4237,7 +4237,7 @@ msgstr "Progressiven Scan aktivieren"
 
 #: Source/Core/DolphinQt/Achievements/AchievementSettingsWidget.cpp:45
 msgid "Enable RetroAchievements.org Integration"
-msgstr ""
+msgstr "RetroAchievements.org-Integration aktivieren"
 
 #: Source/Core/DolphinQt/Achievements/AchievementSettingsWidget.cpp:66
 msgid "Enable Rich Presence"
@@ -4258,7 +4258,7 @@ msgstr "Lautsprecherdaten aktivieren"
 
 #: Source/Core/DolphinQt/Achievements/AchievementSettingsWidget.cpp:72
 msgid "Enable Unofficial Achievements"
-msgstr ""
+msgstr "Inoffizielle Achievements aktivieren"
 
 #: Source/Core/DolphinQt/Settings/GeneralPane.cpp:230
 msgid "Enable Usage Statistics Reporting"
@@ -4266,7 +4266,7 @@ msgstr "Berichterstattung für Nutzungsdaten aktivieren"
 
 #: Source/Core/DolphinQt/Settings/WiiPane.cpp:161
 msgid "Enable WiiConnect24 via WiiLink"
-msgstr ""
+msgstr "WiiConnect24 via WiiLink aktivieren"
 
 #: Source/Core/DolphinQt/Config/Graphics/AdvancedWidget.cpp:81
 msgid "Enable Wireframe"
@@ -9319,19 +9319,19 @@ msgstr "Bis &hier ausführen"
 
 #: Source/Core/DolphinQt/Settings/GameCubePane.cpp:203
 msgid "Run GBA Cores in Dedicated Threads"
-msgstr ""
+msgstr "GBA-Kerne in separaten Threads ausführen"
 
 #: Source/Core/DolphinQt/Debugger/CodeViewWidget.cpp:670
 msgid "Run until"
-msgstr ""
+msgstr "Ausführen bis"
 
 #: Source/Core/DolphinQt/Debugger/CodeViewWidget.cpp:625
 msgid "Run until (ignoring breakpoints)"
-msgstr ""
+msgstr "Ausführen bis (Breakpoints ignorieren)"
 
 #: Source/Core/DolphinQt/Debugger/RegisterWidget.cpp:177
 msgid "Run until hit (ignoring breakpoints)"
-msgstr ""
+msgstr "Ausführen bis zu (Breakpoints ignorieren)"
 
 #: Source/Core/DiscIO/Enums.cpp:51
 msgid "Russia"
@@ -9343,7 +9343,7 @@ msgstr "SD-Karte"
 
 #: Source/Core/DolphinQt/Settings/WiiPane.cpp:266
 msgid "SD Card File Size:"
-msgstr ""
+msgstr "SD-Karten-Größe:"
 
 #: Source/Core/DolphinQt/Settings/WiiPane.cpp:506
 msgid "SD Card Image (*.raw);;All Files (*)"
@@ -9355,15 +9355,15 @@ msgstr "SD-Karten-Pfad:"
 
 #: Source/Core/DolphinQt/Settings/WiiPane.cpp:213
 msgid "SD Card Settings"
-msgstr ""
+msgstr "SD-Karten-Einstellungen"
 
 #: Source/Core/DolphinQt/RiivolutionBootWidget.cpp:168
 msgid "SD Root:"
-msgstr ""
+msgstr "SD-Stammverzeichnis:"
 
 #: Source/Core/DolphinQt/Settings/WiiPane.cpp:255
 msgid "SD Sync Folder:"
-msgstr ""
+msgstr "SD-Synchronisationsverzeichnis:"
 
 #: Source/Core/DolphinQt/Config/Graphics/ColorCorrectionConfigWindow.cpp:97
 msgid "SDR Display Gamma Target"
@@ -9458,11 +9458,11 @@ msgstr "Ältesten Spielstand überschreiben"
 
 #: Source/Core/DolphinQt/RiivolutionBootWidget.cpp:325
 msgid "Save Preset"
-msgstr ""
+msgstr "Voreinstellungen speichern"
 
 #: Source/Core/DolphinQt/MainWindow.cpp:1843
 msgid "Save Recording File As"
-msgstr ""
+msgstr "Aufnahmedatei speichern als"
 
 #: Source/Core/Core/HotkeyManager.cpp:180
 #: Source/Core/Core/HotkeyManager.cpp:354
